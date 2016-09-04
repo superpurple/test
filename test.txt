@@ -1,6 +1,10 @@
 Git is a version control system.
 Git is free software.
 
+<<<<<<< HEAD
 Learn Git
 
 update Nov
+=======
+Learn Git
+>>>>>>> 84c766e24d10eb43548c42484fddc0573ba77f9f
